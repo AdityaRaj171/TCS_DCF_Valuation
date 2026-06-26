@@ -76,6 +76,8 @@ Python · pandas · numpy · yfinance · matplotlib · Google Colab
 ## Author
 
 Aditya Raj
+Svnit Surat 
+B.Tech(Mechanical EngineerinG)
 
 &#x20;
 
